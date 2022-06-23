@@ -7,5 +7,6 @@ class A
     System.out.println("hi");
     System.out.println("helloh");
     System.out.println("hi");
+    System.out.println("hello")
   }
 }
