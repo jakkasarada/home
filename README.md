@@ -7,6 +7,6 @@ class A
 //jagadeesh
 //jagadeesh
 //jagadeesh
-//jagadeesh
+main
   }
 }
