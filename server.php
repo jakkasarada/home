@@ -8,5 +8,6 @@ $user=$_POST['password_2'];
 $qry="INSERT INTO reg(user,email,psw) VALUES('$user','$email','$psw1)";
 mysql_query($qry);
 mysql_close();
+hi this sharada
 }
 	
